@@ -39,6 +39,8 @@ html_css_files = [
 ]
 
 rst_prolog = """
+.. |RAP| replace:: :abbr:`RAP (Rules as Programmed)`
+.. |RAW| replace:: :abbr:`RAW (Rules as Written)`
 .. |UI| replace:: :abbr:`UI (User Interface)`
 .. |GM| replace:: :abbr:`GM (Game Master)`
 .. |PC| replace:: :abbr:`PC (Player Character)`
