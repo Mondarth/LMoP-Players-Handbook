@@ -9,6 +9,23 @@ This is a brief handbook for players in the Lost Mines of Phandelver campaign ru
 
    players/index.rst
    table/index.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Foundry:
+
+   foundry/index.rst
+   foundry/cover.rst
+   foundry/locks.rst
+   foundry/ammo.rst
+   foundry/shops.rst
+   foundry/loot.rst
+   foundry/languages.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Appendices:
+
    appendices/glossary.rst
 
 .. rubric:: Footnotes

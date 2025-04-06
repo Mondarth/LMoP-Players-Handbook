@@ -20,6 +20,7 @@ At the table please:
 #. Let other players play their own character. By all means offer occasional advice but *DO NOT* pressure others to play 'your way'.
 #. *DO NOT* :term:`metagame <Meta-gaming>` (I will let you know if you do this accidentally but do not do it deliberately, it's rude).
 
+
 Character Death
 ---------------
 
