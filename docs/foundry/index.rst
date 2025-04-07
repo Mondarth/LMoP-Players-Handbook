@@ -11,7 +11,12 @@ I am a big fan of automating as much of the game mechanics as possible. You will
 Animation
 ~~~~~~~~~
 
-Lots ow weapons and spells show animations on screen.
+Lots of weapons and spells show animations on screen and play sound effects.
+
+Sound
+~~~~~
+
+Sound can be important. Listen carefully as you move about. When your character is selected you will hear the environment around them. You may pick up clues (especially if you move close to doors and windows where you may hear what is happening on the other side).
 
 Dice rolls
 ~~~~~~~~~~

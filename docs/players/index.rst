@@ -27,7 +27,7 @@ But the rules say...
 
 I play |RAP| (as |FVTT| automation determines). This generally means |RAW| in the 2014 core rule books. But, these rules are still not definitive, are often open to interpretation or ambiguous, or simply do not cover every situation. When all is said and done, the way I interpret the rules at my tables is the 'right' way so please don't be 'that person' who quotes the rule books. The rule books are only guidance (in fact the core rules make this point).
 
-I am however a great believer in the 'rule of cool'. If you want to try something that is not in the rules, or that bends the rules (even breaks them), then if it will result in a better game for all at the table I will likely give it my wholehearted support.
+I am however a great believer in the 'rule of cool'. If you want to try something that is not in the rules, or that bends the rules (even breaks them), then if it will result in a better game for all at the table I will likely give it my wholehearted support (I may assign a very high difficulty to it though, so failure is always an option).
 
 Missing Players
 ---------------
@@ -39,6 +39,8 @@ If a player cannot make a session we will adopt one of the following:
 #. |gm| will, with the players consent, :ref:`control <gmc>` their character through the session.
 #. Session will be skipped if everyone agrees.
 
+
+If a player simply fails to turn up to a session without notice then by default I will 'rest' the character and introduce an |NPC| to :term:`buff` the party for that session\ [#F4]_.
 
 .. _rest:
 Character Resting
@@ -78,7 +80,7 @@ If missing players means the party size drops below the minimum size the remaini
 Continuing with small party
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-An undersized party may find it difficult in some encounters (running away is frequently the best stategy when outmatched).
+An undersized party may find it difficult in some encounters (running away is frequently the best stategy when outmatched). A small party is still often better than no party and I will do my best to keep sessions going even if only you turn up and want to play.
 
 
 .. _second:
@@ -89,10 +91,11 @@ More experienced players may volunteer to play secondary characters\ [#F2]_.
 
 **This requires the agreement of all other players.**
 
-The secondary character will only 'make up numbers' and will not be playable when all players are present.
+The secondary character will only 'make up numbers' and will not be playable when the campaign minimum number of players are present.
 
 .. rubric:: Footnotes
 
 .. [#F3] For example, magic users should read what their spells do and how they work (I make resources available through both |ddb| and within |FVTT| to help with this).
+.. [#F4] |NPC| party members are not ideal but better that screwing a whose session.
 .. [#F1] No 'ratchet' operates as in the |gm| control option. The only reason for the |gm| ratchet is to avoid |gm| overload.
 .. [#F2] I'll figure a way for them to come and go (just as I will with the missing player).

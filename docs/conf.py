@@ -39,7 +39,8 @@ html_css_files = [
 ]
 
 rst_prolog = """
-.. |RAP| replace:: :abbr:`RAP (Rules as Programmed)`
+.. |ASAP| replace:: :abbr:`ASAP (As Soon As Possible)`
+.. |RAP| replace:: :abbr:`RAP (Rules as Programed)`
 .. |RAW| replace:: :abbr:`RAW (Rules as Written)`
 .. |UI| replace:: :abbr:`UI (User Interface)`
 .. |GM| replace:: :abbr:`GM (Game Master)`
