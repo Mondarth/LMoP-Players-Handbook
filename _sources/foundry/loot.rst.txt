@@ -3,7 +3,7 @@ Loot
 
 Loot is often laying around or in chests. Moving over a room with your mouse and |dLMB| on things that look likely to be, or contain, loot is always a good idea. You may need to :ref:`pick a lock <lockpicking>` but once in you will see a list of loot you can take.
 
-.. note:: Your character usually need to be close to the item to be checked, so blindly clicking around will not generally work. You need to walk your character to the item to be checked.
+.. note:: Your character usually need to be close to the item to be checked, so blindly clicking around may reveal that something could be interesting but you still need to walk your character to the item to be checked.
 
 
 Corpse Robbing

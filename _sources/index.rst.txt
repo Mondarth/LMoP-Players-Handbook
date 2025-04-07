@@ -27,6 +27,7 @@ This is a brief handbook for players in the Lost Mines of Phandelver campaign ru
    foundry/cover.rst
    foundry/locks.rst
    foundry/ammo.rst
+   foundry/combat.rst
    foundry/shops.rst
    foundry/loot.rst
    foundry/languages.rst
