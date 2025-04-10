@@ -18,6 +18,7 @@ This is a brief handbook for players in the Lost Mines of Phandelver campaign ru
 
    players/index.rst
    table/index.rst
+   table/house_rules.rst
 
 .. toctree::
    :maxdepth: 2

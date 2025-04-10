@@ -40,6 +40,7 @@ html_css_files = [
 
 rst_prolog = """
 .. |ASAP| replace:: :abbr:`ASAP (As Soon As Possible)`
+.. |IMO| replace:: :abbr:`IMO (In My Opinion)`
 .. |RAP| replace:: :abbr:`RAP (Rules as Programed)`
 .. |RAW| replace:: :abbr:`RAW (Rules as Written)`
 .. |UI| replace:: :abbr:`UI (User Interface)`
