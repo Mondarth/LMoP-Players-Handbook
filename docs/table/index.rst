@@ -4,9 +4,9 @@ Table
 Time
 ----
 
-Please be on time! The session will start at the asigned time with or without you (as with other requests this is to be fair to other players). The table is usually open a few minutes before the session starts to allow people to connect and get settled.
+Please be on time! The session will start at the assigned time with or without you (as with other requests this is to be fair to other players). The table is usually open a few minutes before the session starts to allow people to connect and get settled.
 
-Sessions are scheduled to run for three to four hours. I aim f three and a half but if a natural break occurs after three hours I offer the table the opportunity to stop there. If a session looks like there will be no natural break before the four hour mark then the table can elect to overrun a little\ [#F1]_.
+Sessions are scheduled to run for three to four hours. I aim for three and a half but if a natural break occurs after three hours I offer the table the opportunity to stop there. If a session looks like there will be no natural break before the four hour mark then the table can elect to overrun a little\ [#F1]_.
 
 Etiquette
 ---------
