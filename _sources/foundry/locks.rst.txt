@@ -14,9 +14,15 @@ You need 'Thieves' Tools' but once you nave these you can attempt to pick a lock
 Keys
 ----
 
-You may find keys as you adventure. These can be used to open the locks to which they belong. Simple approach the lock with your character and :kbd:`SHIFT` |and| |RMB|. If you nave the right key in your inventory the lock will open.
+You may find keys as you adventure. These can be used to open the locks to which they belong. Simple approach the lock with your character and |RMB|. If you have the right key in your inventory the lock will open.
 
 Passwords
 ---------
 
-Some locks open with a password. Approach the lock, :kbd:`SHIFT` |and| |RMB|. You will be challenged for the password. Enter it. If correct the lock opens.
+Some locks open with a password. Approach the lock and |RMB|. You will be challenged for the password. Enter it. If correct the lock opens.
+
+
+Break a lock
+------------
+
+Sometimes brute force is an option. To attempt to break a lock, move your character to the lock and then :kbd:`ALT` |and| |RMB|.
