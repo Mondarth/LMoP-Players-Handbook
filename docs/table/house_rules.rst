@@ -65,7 +65,7 @@ What then is it about casting the spell from a scroll that causes the scroll to 
 Also, the reason given for the time and cost of transcribing a scroll to a spell book is that the wizard must first interpret the spell. This cannot be the whole story though because how could the spell be cast directly without at least some understanding? Perhaps the answer is that to transcribe the spell without 'damaging' it one must study it. At first blush this seems credible but opens another question, 'can a wizard simply study a scroll, prepare from it, and cast the spell without damaging the scroll?'
 
 Casting from your own spell book
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Can a wizard cast directly from their own spell book without preparation? The |RAW| seem to suggest 'no' but there is some ambiguity.
 
