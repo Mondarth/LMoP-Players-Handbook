@@ -43,6 +43,8 @@ rst_prolog = """
 .. |IMO| replace:: :abbr:`IMO (In My Opinion)`
 .. |RAP| replace:: :abbr:`RAP (Rules as Programed)`
 .. |RAW| replace:: :abbr:`RAW (Rules as Written)`
+.. |PHB| replace:: :abbr:`PHB (Player's Handbook)`
+.. |DMG| replace:: :abbr:`DMG (Dungeon Master's Guide)`
 .. |UI| replace:: :abbr:`UI (User Interface)`
 .. |GM| replace:: :abbr:`GM (Game Master)`
 .. |PC| replace:: :abbr:`PC (Player Character)`

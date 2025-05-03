@@ -42,39 +42,39 @@ Magic System
 Scrolls
 ~~~~~~~
 
-These disintegrate when the spell is cast, this much is clear in the |RAW|. A wizard can transfer the spell to their spell book, also clear (takes two hours of study and 50gp---25gp for higher level wizard). The |RAW| is not clear on what happens to the scroll under these circumstances. I offer two possible interpretations:
+These disintegrate when the spell is cast, this much is clear in the |RAW|. A wizard can transfer the spell to their spell book, also clear (takes two hours of study and 50gp---25gp for higher level wizard). The |RAW| is not clear on what happens to the scroll under these circumstances. I am applying the logic of `Mondarth's magic system <https://codex.mondarth.com/wiki/Magic_System_(Core)>`_ as applied to `scrolls <https://codex.mondarth.com/wiki/Scrolls,_spell_books,_etc.>`_.
 
-1. As the spell is transcribed to the spell book it disappears from the scroll. The scroll can be reused.
-2. The scroll remains intact after transcription but disintegrates if the spell is subsequently cast (maintaining the spirit of the basic operation of scrolls).
+.. rubric:: Summary
 
-Both offer some interesting possibilities for play. The first would allow for the creation of a new spell scroll, the second (and I think this is a more interesting one) allows a wizard to transcribe the spell, then sell the original, only for the poor buyer to find a pool of disintegrated scroll when the wizard casts the spell. This does bed the question, 'what happens if someone casts the spell from the scroll **before** the wizard casts the spell from the spell book?'
+Here 'script' refers to any symbolic record of a spell (scroll, spell book, etc.).
 
-In a world where the second option is possible anyone in the market to buy scrolls will obviously be wary of buying from strangers. Also, I imagine anyone cheated in this way would likely 'come looking' for anyone fool enough to try this.
+.. dropdown:: Can I copy a script?
 
-Casting from transcribed scroll
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   Yes if you are a skilled magic user. Copying takes time, skill, and sometimes resources. You will always need appropirate materials (simple ink and parchment are rarely suitable to contain a magical script).
 
-This runs to the core of the magic system. If a scroll is simply a 'recipe' then transcribing it would have no effect and life would be dull. If we accept that the scroll is imbued with some special property (and the |PHB| stating that a scroll disintegrates when used to cast a spell suggest there is more to a scroll than a simple recipe) then it is easy to see additional properties being assigned by the author of the scroll or as an intrinsic feature of the magic system.
+   The higher the level of the script being tansfered the more effort required. If your |gm| is in a generous mood they may give some indication of what is needed at the outset.
 
-Given all scrolls disintegrate on casting, but transcription is not casting, it seems so me that the scroll remains intact after transcription into a spell book.
+   Copying a foreign script (not your own) requires more time and effort as you must first understand the script, how the spell works, and how to safely transcribe it into your own script.
 
-The |RAW| is also clear that a wizard can copy their own spell book. And, obviously, a wizard prepares spells from the book without harming the book or its content. So reading a spell without casting is harmless to book or scroll.
+   Copying your own script still requires care and time but is less risky and quicker than transcribing a forieign script.
 
-What then is it about casting the spell from a scroll that causes the scroll to disintegrate? Does the scroll take the place of material components? This seems simple enough for spells that require material components, but is more difficult to justify otherwise.
+.. dropdown:: What happens to a copied script?
 
-Also, the reason given for the time and cost of transcribing a scroll to a spell book is that the wizard must first interpret the spell. This cannot be the whole story though because how could the spell be cast directly without at least some understanding? Perhaps the answer is that to transcribe the spell without 'damaging' it one must study it. At first blush this seems credible but opens another question, 'can a wizard simply study a scroll, prepare from it, and cast the spell without damaging the scroll?'
+   It depends. If copying your own script (i.e. making a copy of your own spell book) then nothing happens if you successfully make the copy.
 
-Casting from your own spell book
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   If copying a foreign script (any script not written by you) then it may disintegrate completely, the script may vanish, or it may remain but become inert. Which happens will depend on the specifics of these script being copied, ask your |gm|.
 
-Can a wizard cast directly from their own spell book without preparation? The |RAW| seem to suggest 'no' but there is some ambiguity.
+.. dropdown:: What is an inert script?
 
-If they cannot then how can this be reconciled with casting from a scroll?
+   An inert script appears to be a normal script but cannot be copied or cast from. To discover if you have an inert script you need to study it, as if copying it normally. Your |gm| will let you know the outcome.
 
-Casting from another's spell book
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. dropdown:: Can I cast directly from a script?
 
-Is a spell book different to a collection of scrolls? Perhaps. The |RAW| has nothing to say on the casting of spells directly from a spell book (whether owned or someone else's).
+   Yes. Any script can be used to cast from directly with no preparation. However this *always* renders the script inert, regardless of whether it is your own or a foreign script.
+
+   This means you could cast direct from your own spell book a spell you have not prepared but you would essentially burn that spell and have no access to it in future.
+
+
 
 
 .. rubric:: Footnotes
